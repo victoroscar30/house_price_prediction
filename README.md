@@ -28,9 +28,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## How to Run
 **1.** Clone this repository to your local machine.
 
-**2.** Download the housing.csv file from Kaggle and place it in a folder named datasets in the root of the project.
+**2.** Download the `housing.csv` file from Kaggle and place it in a folder named datasets in the root of the project.
 
-**3.** Open the housing-prices-prediction.ipynb notebook in a Jupyter environment (Jupyter Notebook, JupyterLab, or VS Code).
+**3.** Open the `housing-prices-prediction.ipynb` notebook in a Jupyter environment (Jupyter Notebook, JupyterLab, or VS Code).
 
 **4.** Run the cells sequentially to reproduce the analysis and model training.
 
