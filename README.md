@@ -17,7 +17,7 @@ The main goal of this project is to build a predictive model capable of estimati
 * **Hyperparameter Optimization**: Use GridSearchCV to find the best combination of parameters for the RandomForestRegressor model.
 
 ## Dataset
-The project uses the housing.csv dataset, which contains housing price data for California. The notebook reads this file from a datasets directory.
+The project uses the `housing.csv` dataset, which contains housing price data for California. The notebook reads this file from a datasets directory.
 
 ## Requirements
 To run this notebook, you will need the following Python libraries installed. You can install them using `pip`:
